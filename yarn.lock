@@ -1968,7 +1968,7 @@ loopback-component-explorer@^6.2.0:
     lodash "^4.17.11"
     loopback-swagger "^5.0.0"
     strong-globalize "^4.1.1"
-    swagger-ui ~> 3.23.11
+    swagger-ui "^3.23.11"
 
 loopback-connector-mysql@^5.4.2:
   version "5.4.2"
